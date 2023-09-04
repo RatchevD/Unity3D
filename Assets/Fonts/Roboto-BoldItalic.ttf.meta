@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: be83475a69f53ef4dabdfa9b896e0a0e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Roboto
+  fontNames:
+  - Roboto
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: fc779b348455df748aae69859018123b, type: 3}
+  - {fileID: 12800000, guid: 513c1b9486ac3c1428ac644d44066b87, type: 3}
+  - {fileID: 12800000, guid: bbf4d8e4bccdeb8438e46f8a14bed5bd, type: 3}
+  - {fileID: 12800000, guid: d1ec7145ed0372e468acfde39087dbbf, type: 3}
+  - {fileID: 12800000, guid: b909e88590dc3d541b78b9e1b8bbf5bf, type: 3}
+  - {fileID: 12800000, guid: b334d1a54e511a7499dc8e5fc759aba0, type: 3}
+  - {fileID: 12800000, guid: 5238f427f3e82ee4ba37806d56f68842, type: 3}
+  - {fileID: 12800000, guid: 63c226fafb9ea064b88db28fb21ca1fd, type: 3}
+  - {fileID: 12800000, guid: 4c593a6cc9b483c4a91927d3462c8ef3, type: 3}
+  - {fileID: 12800000, guid: 0475345d001b38747ad147ac81e1f153, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
